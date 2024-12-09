@@ -16,9 +16,8 @@
     grid-template:
         "direccion  direccion   facebook" 1fr
         "navbar     navbar      facebook" 1fr
-        "derechos   derechos    derechos" 0.5fr 
-        "nota       nota        nota"     0.5fr /
-        1fr        1fr        0.5fr;
+        "derechos   derechos    derechos" 0.5fr "nota       nota        nota" 0.5fr /
+        1fr 1fr 0.5fr;
 
     color: global.$color-fondo;
 }
@@ -67,26 +66,80 @@
     display: flex;
     justify-content: start;
     align-items: start;
+    list-style-type: disc;
 }
 
-.footer__ul--li {}
+.footer__ul--li {
+    margin-right: 1.5rem;
+}
 
-.header__link--a {}
+.header__link--a {
+    color: global.$color-fondo;
+    text-transform: uppercase;
+}
+
+.header__link--a:hover {
+    text-decoration: underline;
+}
 
 .footer__subnav {
-    position:absolute
+    position: absolute;
+    list-style-type: disc;
 }
 
-.footer__subnav--li {}
+.footer__subnav--li {
+    margin-top: 0.3rem;
+}
 
+.footer__subnav a {
+    color: global.$color-fondo;
+    font-size: 0.9rem;
+}
+
+.footer__subnav a:hover {
+    text-decoration: underline;
+}
+
+//Estilos del copyright
 .footer__copy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
     grid-area: derechos;
+    color: global.$color-fondo;
 }
 
-.footer__politicas {}
+.footer__politicas {
+    display: flex;
+    list-style-type: disc;
 
+    li {
+        margin-right: 1.5rem;
+    }
+
+    a {
+        color: global.$color-fondo
+    }
+
+}
+
+.footer__politicas a:hover {
+    text-decoration: underline;
+    
+}
+
+//Estilos de la nota del final
 .footer__nota {
     grid-area: nota;
+    display: flex;
 }
 
-.footer__pagadores {}
+.footer__pagadores {
+    display: flex;
+}
+
+.footer__pagadores img{
+    height: 100px;
+    margin-left: 1rem;
+}

@@ -1,0 +1,37 @@
+[
+    {
+    "id_categoria":"1",
+    "nombre_categoria":"Cuchillos de lujo",
+    "img":"../../assets/images/cuchillo_muela_agarre_lujo_3.jpg"
+    },
+    {
+    "id_categoria":"2",
+    "nombre_categoria":"Cuchillos de acero damasco",
+    "img":"../../assets/images/cuchillos_de_acero_damasco_inoxidable_muela_fabricante_cuchillos_navajas_artesanales.jpg"
+    },
+    {
+    "id_categoria":"3",
+    "nombre_categoria":"Caza y deportivos",
+    "img":"../../assets/images/cuchillos_de_caza_y_deportivos_muela(1).jpg"
+    },
+    {
+    "id_categoria":"4",
+    "nombre_categoria":"Navajas artesanales",
+    "img":"../../assets/images/navajas_artesanales_muela_fabricante_cuchillos_navajas_artesanales.jpg"
+    },
+    {
+    "id_categoria":"5",
+    "nombre_categoria":"Gourmet",
+    "img":"../../assets/images/seccion_cocina_gourmet_cuchillos_muela.jpg"
+    },
+    {
+    "id_categoria":"6",
+    "nombre_categoria":"Fundas y accesorios",
+    "img":"../../assets/images/fundas_para_cuchilos_y_navajas_manufacturas_muela_fabricante.jpg"
+    },
+    {
+    "id_categoria":"7",
+    "nombre_categoria":"Textil",
+    "img":"../../assets/images/textil_muela_fabricante_cuchillos_y_navajas_artesanales.jpg"
+    }
+  ]
