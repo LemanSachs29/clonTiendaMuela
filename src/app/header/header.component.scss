@@ -1,36 +1,43 @@
 @use '../../styles.scss' as global;
 
+/*Estilos generales del header*/
 .header {
     width: 100%;
     background-color: global.$color-fondo;
-    
+
 }
+
+
+/*Estilos de la banda superior*/
 .header__superior-wraper {
     background-color: global.$color-verde-header;
 }
+
 .header__superior {
     display: flex;
     gap: 10px;
-    padding: 0.3% 0;
+    padding: 0.7% 0;
     align-items: center;
     margin-right: 5rem;
     justify-content: end;
 }
+
 .header__idioma {
     color: global.$color-fondo;
-    font-weight: 500;
+    font-weight: 400;
 
-    a{
-        color: global.$color-fondo
+    a {
+        color: global.$color-fondo;
+        font-size: 0.9rem;
     }
-    
-    a:last-child{
+
+    a:last-child {
         color: global.$color-verde-fuente;
     }
 
 }
 
-.header__buscador input{
+.header__buscador input {
     font-size: 0.95rem;
     color: global.$color-gris-fuente;
     background-color: #FFF;
@@ -39,40 +46,100 @@
     border-radius: 5px;
     padding: 1.5%;
 }
+
+/*Estilos de la barra principal*/
 .header__principal-wraper {
- display: flex;   
- justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
-.header__principal{
+.header__principal {
     display: flex;
     justify-content: space-between;
     width: 100%;
     max-width: 1200px;
 }
-.header__logo{
+
+.header__logo {
     width: 5rem;
     margin: 1% 0;
 }
-.header__logo img{
+
+.header__logo img {
     width: 100%;
 }
+
 .header__nav {
-        align-self: end;
+    align-self: end;
+    margin-bottom: 0.6rem;
 }
 
-.header__ul{
+.header__ul {
     display: flex;
     list-style-type: none;
+    margin-bottom: 3%;
 }
-.header__link {
+
+.header_ul :nth-child(3) {
+    //productos
+    position: relative;
+}
+
+.header__link>a {
     margin: 0.75rem;
     font-family: global.$fuentePath0;
+    font-size: 1.2rem;
     text-transform: uppercase;
     color: global.$color-gris-fuente;
     cursor: pointer;
 }
 
 .header__link:hover {
-    color: global.$color-verde-header;
+
+    .header__link--a {
+        color: global.$color-verde-header;
+    }
+
+
+    .header__submenu {
+        display: block;
+    }
+}
+
+
+.header__submenu {
+    display: none;
+    list-style: none;
+    border-radius: 10px;
+    position: absolute;
+
+
+    .header__submenu--link {
+        text-align: left;
+        margin-bottom: 0.1rem;
+        border-radius: 5px;
+        text-transform: uppercase;
+        cursor: pointer;
+        padding: 1px;
+        background-color: global.$color-rrss;
+
+
+    }
+
+    a {
+        display: block;
+        padding: .4rem;
+        font-size: .9rem;
+        color: global.$color-fondo;
+        margin-right: 2rem;
+    }
+}
+
+.header__submenu:hover {
+    display: none;
+
+}
+
+.header__submenu--link a:hover{
+    color: global.$color-gris-fuente;
 }

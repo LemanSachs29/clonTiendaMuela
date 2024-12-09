@@ -1,0 +1,92 @@
+@use '../../styles.scss' as global;
+
+//Estilos generales del footer
+//Contenedor del footer
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: global.$color-gris-oscuro;
+}
+
+//Contenedor principal
+.footer_wraper {
+    display: grid;
+    margin: 5%;
+    grid-template:
+        "direccion  direccion   facebook" 1fr
+        "navbar     navbar      facebook" 1fr
+        "derechos   derechos    derechos" 0.5fr 
+        "nota       nota        nota"     0.5fr /
+        1fr        1fr        0.5fr;
+
+    color: global.$color-fondo;
+}
+
+//Estilos de la sección de facebook
+.footer__facebook {
+    grid-area: facebook;
+    display: flex;
+    justify-content: end;
+}
+
+//Estilos de la seccón de dirección
+.footer__direccion {
+    grid-area: direccion;
+
+    h1 {
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-bottom: .6rem;
+    }
+
+    p,
+    span {
+        font-size: 1rem;
+        margin-bottom: .6rem;
+        font-weight: 400;
+    }
+
+    p:nth-child(5) {
+        margin-bottom: 1.3rem;
+    }
+
+    p:last-of-type span {
+        margin-top: 0.6rem;
+        text-decoration: underline;
+    }
+}
+
+
+//Estilos de la lista de enlaces
+.footer__nav {
+    grid-area: navbar;
+}
+
+.footer__ul {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+
+.footer__ul--li {}
+
+.header__link--a {}
+
+.footer__subnav {
+    position:absolute
+}
+
+.footer__subnav--li {}
+
+.footer__copy {
+    grid-area: derechos;
+}
+
+.footer__politicas {}
+
+.footer__nota {
+    grid-area: nota;
+}
+
+.footer__pagadores {}
