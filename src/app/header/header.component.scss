@@ -1,0 +1,78 @@
+@use '../../styles.scss' as global;
+
+.header {
+    width: 100%;
+    background-color: global.$color-fondo;
+    
+}
+.header__superior-wraper {
+    background-color: global.$color-verde-header;
+}
+.header__superior {
+    display: flex;
+    gap: 10px;
+    padding: 0.3% 0;
+    align-items: center;
+    margin-right: 5rem;
+    justify-content: end;
+}
+.header__idioma {
+    color: global.$color-fondo;
+    font-weight: 500;
+
+    a{
+        color: global.$color-fondo
+    }
+    
+    a:last-child{
+        color: global.$color-verde-fuente;
+    }
+
+}
+
+.header__buscador input{
+    font-size: 0.95rem;
+    color: global.$color-gris-fuente;
+    background-color: #FFF;
+    width: 300px;
+    border: 1px solid global.$color-gris-fuente;
+    border-radius: 5px;
+    padding: 1.5%;
+}
+.header__principal-wraper {
+ display: flex;   
+ justify-content: center;
+}
+
+.header__principal{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+}
+.header__logo{
+    width: 5rem;
+    margin: 1% 0;
+}
+.header__logo img{
+    width: 100%;
+}
+.header__nav {
+        align-self: end;
+}
+
+.header__ul{
+    display: flex;
+    list-style-type: none;
+}
+.header__link {
+    margin: 0.75rem;
+    font-family: global.$fuentePath0;
+    text-transform: uppercase;
+    color: global.$color-gris-fuente;
+    cursor: pointer;
+}
+
+.header__link:hover {
+    color: global.$color-verde-header;
+}
