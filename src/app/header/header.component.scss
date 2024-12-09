@@ -2,7 +2,6 @@
 
 /*Estilos generales del header*/
 .header {
-    width: 100%;
     background-color: global.$color-fondo;
 
 }
@@ -10,16 +9,22 @@
 
 /*Estilos de la banda superior*/
 .header__superior-wraper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: global.$color-verde-header;
 }
 
 .header__superior {
+    width: 100%;
     display: flex;
     gap: 10px;
     padding: 0.7% 0;
     align-items: center;
     margin-right: 5rem;
     justify-content: end;
+    max-width: 1400px;
 }
 
 .header__idioma {
@@ -39,10 +44,10 @@
 
 .header__buscador input {
     font-size: 0.95rem;
-    color: global.$color-gris-fuente;
-    background-color: #FFF;
+    color: global.$color-fondo;
+    background-color: global.$color-fondo;
     width: 300px;
-    border: 1px solid global.$color-gris-fuente;
+    border: 1px solid global.$color-fondo;
     border-radius: 5px;
     padding: 1.5%;
 }
