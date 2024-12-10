@@ -1,0 +1,44 @@
+ @use '../../styles.scss' as global;
+
+ .content{
+    width: 100%;
+    background-image: url(../../assets/images/muela_agarre.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    animation-name: animate;
+    animation-direction: alternate;
+    animation-play-state: running;
+    animation-timing-function: ease-in-out;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+ }
+
+ @keyframes animate {
+    0% {
+        background-image: url(../../assets/images/muela_piranha.jpg);
+    }
+    14% {
+        background-image: url(../../assets/images/muela_BT-9NG.jpg);
+    }
+    28% {
+        background-image: url(../../assets/images/muela_ZX-8CO.jpg);
+    }
+    42% {
+        background-image: url(../../assets/images/muela_cazorla.jpg);
+    }
+    56% {
+        background-image: url(../../assets/images/muela_sherpa.jpg);
+    }
+    70% {
+        background-image: url(../../assets/images/muela_fileteros.jpg);
+    }
+    85% {
+        background-image: url(../../assets/images/muela_panzer.jpg);
+    }
+    100% {
+        background-image: url(../../assets/images/muela_agarre.jpg);
+    }
+}
