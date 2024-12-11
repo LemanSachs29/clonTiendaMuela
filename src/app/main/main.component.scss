@@ -15,6 +15,8 @@ $fuentePath0: "Fira Sans", serif;
 
 $border-radius-categorias: 3%;
 $color-gris-categoria: #999999;
+$color-gris-novedad-hover: #dfdede;
+$color-grid-novedad: #eeefef;
 
 
 //Estilos del carousel 
@@ -128,7 +130,6 @@ $color-gris-categoria: #999999;
     font-size: 2.5rem;
     text-align: center;
     padding: 2.5rem 0;
-    border-bottom: 50px;
 }
 
 //Estilos de la sección de categorias
@@ -137,10 +138,10 @@ $color-gris-categoria: #999999;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    padding: 3% 0;
 }
 
 .body__categorias {
+    margin-top: 2rem;
     display: grid;
     place-items: center;
     max-width: calc(295px * 4.5);
@@ -158,6 +159,7 @@ $color-gris-categoria: #999999;
     height: 295px;
     width: 295px;
     border-radius: $border-radius-categorias;
+    cursor:pointer;
 }
 
 .body__categoria img {
@@ -207,6 +209,7 @@ $color-gris-categoria: #999999;
     p{
         color: global.$color-verde-header;
     font-size: 1.6rem;
+    cursor:pointer;
     }
 
     p:hover{
@@ -216,7 +219,7 @@ $color-gris-categoria: #999999;
 
 .body__separador{
     background-color: global.$color-gris-fuente;
-    margin-bottom: 10rem;
+    margin-bottom: 7rem;
 }
 
 //Estilos de la sección de actualidad
@@ -237,6 +240,7 @@ $color-gris-categoria: #999999;
     color: global.$color-gris-fuente;
     font-size: 2.5rem;
     font-weight: 400;
+    cursor:pointer;
 }
 
 .body__container__enlace--a:hover {
@@ -250,7 +254,13 @@ $color-gris-categoria: #999999;
 .body__noticia {
     border: 1px solid global.$color-gris-fuente;
     border-radius: $border-radius-categorias;
+    cursor:pointer;
 }
+
+.body__noticia:hover{
+    background-color: $color-grid-novedad;
+}
+
 .body__noticia--imgContainer {
     margin: 15px;
     overflow: hidden;
@@ -296,6 +306,7 @@ $color-gris-categoria: #999999;
     background-size: cover; /* La imagen de fondo se escala para cubrir todo el contenedor sin deformarse. */
     background-position: center; /* La imagen de fondo se centra dentro del contenedor. */
     background-repeat: no-repeat;/* La imagen de fondo no se repite, se muestra una sola vez. */
+    margin-bottom: 4rem;
 }
 .body__banner--h1 {
     font-size: 3rem;
@@ -303,4 +314,80 @@ $color-gris-categoria: #999999;
     font-weight: 400;
     text-align: center;
     padding: 3rem 0;
+}
+
+
+//Estilos de las novedades
+.body__novedades {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.body__novedades--wraper {
+    display: grid;
+    place-content: center;
+    width: 100%;
+    max-width: calc(620px * 2.1);
+    grid-template-columns: repeat(auto-fit, minmax(620px, 1fr));
+    gap: 40px 20px;
+    justify-items: center;
+   margin-bottom: 2%;
+}
+.body__novedad {
+    display: flex;
+    height: auto;
+    justify-content: start;
+    align-items: start;
+    width: 620px;
+    border-radius: $border-radius-categorias;
+    background-color: $color-grid-novedad;
+    cursor:pointer;
+}
+.body__novedad:hover{
+    background-color: $color-gris-novedad-hover;
+}
+
+.body__novedad__img--container{
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-right: 15px;
+}
+.body__novedad__img--container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ajusta la imagen manteniendo la proporción */
+    object-position: center; /* Centra la imagen dentro del contenedor */
+    border-radius: $border-radius-categorias;
+}
+.body__novedades_text--container {
+    width: calc(620px - 250px - 15px - 10px); /*ancho del contenedor - ancho de la imagen - margin de la imagen - espacio para que no llegue al extremo del contenedor*/
+    height: 100%;
+}
+.body__sticker {
+    
+    background-color: global.$color-gris-oscuro;
+    padding: 2%;
+    width: 100px;
+    text-align: center;
+    color: global.$color-fondo;
+    text-transform: uppercase;
+
+}
+.body__novedad--titular {
+    color: global.$color-verde-header;
+    font-size: 1.3rem;
+    margin: 5% 0;
+}
+.body__novedad--descripcion {
+    display: -webkit-box; /* Define un contenedor flexible */
+    -webkit-line-clamp: 4; /* Número de líneas visibles */
+    -webkit-box-orient: vertical; /* Orientación del recorte */
+    overflow: hidden; /* Oculta el contenido que excede */
+    color: global.$color-gris-oscuro;
+    font-size: 1.2rem;
+    
 }
