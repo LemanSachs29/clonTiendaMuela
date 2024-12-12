@@ -2,36 +2,43 @@
     {
         "id": 1,
         "nombre": "Cuchillos de lujo",
-        "imagen": ".\/..\/images\/muela_agarre_lujo.jpg"
+        "imagen": "assets\/images\/muela_agarre_lujo.jpg",
+        "descripcion":"Los cuchillos de lujo y colección de Manufacturas Muela constituyen una selección de piezas, realizadas en series limitadas y numeradas, con diseños exclusivos empleándose metales preciosos y maderas nobles en un trabajo artesanal. preciosas se combinan con excepcionales trabajos."
     },
     {
         "id": 2,
         "nombre": "Cuchillos de acero de damasco",
-        "imagen": ".\/..\/images\/cuchillos_de_acero_damasco_inoxidable_muela_fabricante_cuchillos_navajas_artesanales.jpg"
+        "imagen": "assets\/images\/cuchillos_de_acero_damasco_inoxidable_muela_fabricante_cuchillos_navajas_artesanales.jpg",
+        "descripcion":"Los cuchillos de lujo de acero damasco de Muela, son los mejores ejemplos de la conjugación de la más autentica tradición y artesanía, que mantienen el innegable concepto de “cuchillos-joya”, concepto especialmente aplicable a estos cuchillos."
     },
     {
         "id": 3,
         "nombre": "Caza y deportivos",
-        "imagen": ".\/..\/images\/cuchillos_de_caza_y_deportivos_muela(1).jpg"
+        "imagen": "assets\/images\/cuchillos_de_caza_y_deportivos_muela(1).jpg",
+        "descripcion":"Los cuchillos de caza y deportivos Muela se caracterizan por una gran calidad y un cuidado diseño. Desde 1950 en Muela hemos pensado en las necesidades del cazador y amante del aire libre para crear con el máximo esmero los mejores cuchillos de caza y deportivos."
     },
     {
         "id": 4,
         "nombre": "Navajas artesanales",
-        "imagen": ".\/..\/images\/navajas_artesanales_muela_fabricante_cuchillos_navajas_artesanales.jpg"
+        "imagen": "assets\/images\/navajas_artesanales_muela_fabricante_cuchillos_navajas_artesanales.jpg",
+        "descripcion":"La funcionalidad y el valor práctico de la navaja, segura, robusta y siempre eficaz por su diseño y materiales prácticamente inalterables, son características de las navajas Muela, presentando en ciertos modelos exclusivos rasgos de distinción, como los aceros Damasco y las maderas exóticas o astas naturales."
     },
     {
         "id": 5,
         "nombre": "Gourmet",
-        "imagen": ".\/..\/images\/seccion_cocina_gourmet_cuchillos_muela.jpg"
+        "imagen": "assets\/images\/seccion_cocina_gourmet_cuchillos_muela.jpg",
+        "descripcion":"La sección Gourmet de cuchillos y machetas de cocina de Manufacturas Muela, viene a aportar el carácter de los productos Muela: calidad, diseño, tradición, y funcionalidad a la cocina de alto nivel."
     },
     {
         "id": 6,
         "nombre": "Fundas y accesorios",
-        "imagen": ".\/..\/images\/fundas_para_cuchilos_y_navajas_manufacturas_muela_fabricante.jpg"
+        "imagen": "assets\/images\/fundas_para_cuchilos_y_navajas_manufacturas_muela_fabricante.jpg",
+        "descripcion":"Las fundas y accesorios Muela, para nuestros cuchillos y navajas artesanales, están especialmente pensados con un doble objetivo: funcionalidad y estética. Así la practicidad y durabilidad, se auna con la estética consiguiendo un máximo disfrute de su navaja o cuchillo."
     },
     {
         "id": 7,
         "nombre": "Textil",
-        "imagen": ".\/..\/images\/textil_muela_fabricante_cuchillos_y_navajas_artesanales.jpg"
+        "imagen": "assets\/images\/textil_muela_fabricante_cuchillos_y_navajas_artesanales.jpg",
+        "descripcion":"La línea Textil de Manufacturas Muela tiene como objetivo la comodidad, practicidad y estética de aquellos a quienes les gusta disfrutar del aire libre y la caza. Son los complementos ideales para quien disfruta ya de nuestros cuchillos y navajas artesanales."
     }
 ]

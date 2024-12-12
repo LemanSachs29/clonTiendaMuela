@@ -1,0 +1,407 @@
+[
+    {
+      "id_categoria": 1,
+      "id_producto": 101,
+      "nombre": "Muela Agarre Lujo, edicion limitada 250 ejemplares",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo-lujo-agarre-muela.jpg",
+      "descripcion": "Nuevo cuchillo \"premium\" de Muela:  el AGARRE de LUJO, en edición limitada y numerada de 250 ejemplares.\r\n\r\n\r\nY es que el Agarre Lujo, cuchillo de remate, hace honor al lance del mismo nombre en la montería, cuando los perros dan alcance y sujetan a la presa. Es justamente la escena que, bellamente labrada, se muestra en relieve en la guarda, en plata de ley.\r\n\r\n\r\nCon una hoja magnífica en acero inox. MoVa con doble filo, tipo daga, y con una empuñadura en asta de ciervo procedente del desmogue, rematada con pomo con detalle, también en plata, de hojas de la encinas, el Agarre es un auténtico trabajo de orfebre en forma de cuchillo.\r\n\r\n\r\nViene a su vez con una opulenta funda en piel repujada de primerísima calidad, que está a la altura de tan extraordinaria pieza.",
+      "medidas": {
+        "mango": "160 MM",
+        "hoja": "265 MM",
+        "peso": "670 GR"
+      }
+    },
+    {
+      "id_categoria": 1,
+      "id_producto": 102,
+      "nombre": "Cuchillo de remate COVARSÍ-C.TH, edición limitada 30 aniversario",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo%20muela%20CORVASI%20REMATE%20edicion%20limitada%2030%20aniversario%203(1).jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS de CAZA y DEPORTIVOS, el Cuchillo de remate COVRASÍ-C.TH, edición limitada, 30 aniversario.\r\n\r\nCuchillo de edición limitada y numerada de 250 unidades, 30 aniversario, cachas de raíz de chopo estabilizada.\r\n\r\nFunda realizada por el taller artesano “Quercur Leathercraft”.",
+      "medidas": {
+        "mango": "145MM",
+        "hoja": "245 MM",
+        "peso": "533 GR"
+      }
+    },
+    {
+      "id_categoria": 1,
+      "id_producto": 103,
+      "nombre": "Cuchillo de remate PODENQUERO-TH, edición limitada 25 aniversario",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo%20muela%20podenquero%20REMATE%20edicion%20limitada%2025%20aniversario%202(1).jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS de CAZA y DEPORTIVOS, el Cuchillo de remate PODENQUERO-TH, edición limitada, 25 aniversario.\r\n\r\nCuchillo de edición limitada y numerada de 250 unidades, 25 aniversario, cachas de asta de ciervo.\r\n\r\nFunda realizada por el taller artesano “Quercur Leathercraft”.",
+      "medidas": {
+        "mango": "130 MM",
+        "hoja": "260 MM",
+        "peso": "650gr"
+      }
+    },
+    {
+      "id_categoria": 1,
+      "id_producto": 104,
+      "nombre": "Cuchillos Podenco y Mastín",
+      "imagen": "https://panel.muela.eu/fotos/cuhillo_6_PODENCO_6271_muela(2).jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS DE LUJO, los cuchillos de lujo PODENCO y MASTÍN.\r\n\r\nMuela presenta la reedición de dos de sus cuchillos clásicos y más emblemáticos de la firma como son el “MASTÍN” y “PODENCO”, aludiendo y homenajeando a dos de las razas más importantes dentro del mundo de la montería española. Ambos se presentan con una preciosa guarda  en plata de ley y tan solo se diferencian por la moneda maciza también de plata  que incorpora en la roseta.\r\n",
+      "medidas": {
+        "mango": "165 MM",
+        "hoja": "245 MM",
+        "peso": "525 GR"
+      }
+    },
+    {
+      "id_categoria": 1,
+      "id_producto": 105,
+      "nombre": "Cuchillo de lujo BX-8.TH",
+      "imagen": "https://panel.muela.eu/fotos/navaja_muela_bx-8_th.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS DE LUJO, el cuchillo de lujo BX-8.TH\r\n\r\nCuchillo de edición limitada a 999 unidades (60 aniversario), con las cachas en madera de raíz de arce americano.",
+      "medidas": {
+        "mango": "110 MM",
+        "hoja": "90 MM",
+        "peso": "113 GR"
+      }
+    },
+    {
+      "id_categoria": 2,
+      "id_producto": 201,
+      "nombre": "Cuchillo con mango de asta de ciervo BRACO-11DAM",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo_lujo_braco_11dam__manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS DE ACERO DAMASCO, el cuchillo de acero Damasco BRACO-11DAM.\r\n\r\nCuchillo con mango de asta de ciervo, pomo y virola latón y hoja acero Damasco.",
+      "medidas": {
+        "mango": "110 MM",
+        "hoja": "110 MM",
+        "peso": "140 GR"
+      }
+    },
+    {
+      "id_categoria": 2,
+      "id_producto": 202,
+      "nombre": "Cuchillo mango de madera prensada coral BRACO-11DAM M",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo_lujo_braco_11dam_m__manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS DE ACERO DAMASCO, el cuchillo de acero Damasco BRACO-11DAM M.\r\n\r\nCuchillo con mango de madera prensada coral, pomo y virola latón y hoja acero Damasco.",
+      "medidas": {
+        "mango": "110 MM",
+        "hoja": "112 MM",
+        "peso": "140 GR"
+      }
+    },
+    {
+      "id_categoria": 2,
+      "id_producto": 203,
+      "nombre": "Cuchillo con mango de asta de ciervo LUPUS-25DAM.C",
+      "imagen": "https://panel.muela.eu/fotos/WEB-LUPUS-25DAM.C.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS DE ACERO DAMASCO, el cuchillo de acero Damasco LUPUS-25DAM.C.\r\n\r\nCuchillo con mango de asta de ciervo, latón e inoxidable y hoja acero Damasco",
+      "medidas": {
+        "mango": "140 MM",
+        "hoja": "250 MM",
+        "peso": "530 GR"
+      }
+    },
+    {
+      "id_categoria": 2,
+      "id_producto": 204,
+      "nombre": "Cuchillo con mango de asta de ciervo MAGNUM-23DAM.C",
+      "imagen": "https://panel.muela.eu/fotos/CUCHILLO%20DAMASCO%20LUJO%20MAG-23DAM%20MUELA.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS DE ACERO DAMASCO, el cuchillo de acero Damasco MAGNUM-23DAM.C.\r\n\r\nCuchillo con mango de asta de ciervo, latón e inoxidable y hoja acero Damasco.",
+      "medidas": {
+        "mango": "140 MM",
+        "hoja": "230 MM",
+        "peso": "445 GR"
+      }
+    },
+    {
+      "id_categoria": 2,
+      "id_producto": 205,
+      "nombre": "Cuchillo con mango de asta de ciervo AFRICA-9DAM",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo_mango_asta_ciervo_y_hoja_de_acero_de_damasco_africa_9dam_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS DE ACERO DAMASCO, el  cuchillo de acero Damasco AFRICA-9DAM.\r\n\r\nCuchillo con mango de asta de ciervo y hoja acero Damasco.",
+      "medidas": {
+        "mango": "110 MM",
+        "hoja": "90 MM",
+        "peso": "160 GR"
+      }
+    },
+    {
+      "id_categoria": 3,
+      "id_producto": 301,
+      "nombre": "Cuchillo de remate caza y deportivo BW-24ESP.",
+      "imagen": "https://panel.muela.eu/fotos/nuevo%20cuchillo%20muela%20de%20remate%20BW-24ESP%202.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS de CAZA y DEPORTIVOS, el Cuchillo de remate BW-24ESP.\r\n\r\nCuchillo de remate con puño madera natural de granadillo, hoja de acero MOVA, y pomo con cabeza jabalí de latón.",
+      "medidas": {
+        "mango": "14 cms ",
+        "hoja": "24 cms",
+        "peso": "390 grs"
+      }
+    },
+    {
+      "id_categoria": 3,
+      "id_producto": 302,
+      "nombre": "Cuchillo de remate ALCARAZ-26N",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo_de_remate_caza_y_deportivo_alcaraz-26n_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS de CAZA y DEPORTIVOS, el Cuchillo de remate ALCARAZ-26N.\r\n\r\nCuchillo de remate con puño de asta de ciervo con cabeza de jabali y defensa de latón.",
+      "medidas": {
+        "mango": "150 MM",
+        "hoja": "260 MM",
+        "peso": "40 GR"
+      }
+    },
+    {
+      "id_categoria": 3,
+      "id_producto": 303,
+      "nombre": "Cuchillo de remate caza y deportivo RECOVA.",
+      "imagen": "https://panel.muela.eu/fotos/cuchillos%20muela%20de%20remate%20RECOVA.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS de CAZA y DEPORTIVOS, el Cuchillo de remate RECOVA.\r\n\r\nCuchillo de remate con cachas madera haya estabilizada grabada, virola latón, acero “Nitro-42”. ",
+      "medidas": {
+        "mango": "140mm",
+        "hoja": "225 mm",
+        "peso": "290 gr"
+      }
+    },
+    {
+      "id_categoria": 3,
+      "id_producto": 304,
+      "nombre": "Cuchillo de remate caza y deportivo COVARSI-24R.",
+      "imagen": "https://panel.muela.eu/fotos/cuchillos%20muela%20de%20remate%20COVARSI%2024R.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS de CAZA y DEPORTIVOS, el Cuchillo de remate COVARSI-24R.\r\n\r\nCuchillo de remate con cachas madera prensada rosewood, defensa inoxidable, acero “Nitro-42”. ",
+      "medidas": {
+        "mango": "140 MM",
+        "hoja": "240 mm",
+        "peso": "350 gr"
+      }
+    },
+    {
+      "id_categoria": 3,
+      "id_producto": 305,
+      "nombre": "Cuchillo de remate caza y deportivo PODENQUERO-26R.",
+      "imagen": "https://panel.muela.eu/fotos/cuchillos%20muela%20de%20remate%20PODENQUERO%2026R.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de CUCHILLOS de CAZA y DEPORTIVOS, el Cuchillo de remate PODENQUERO-26R.\r\n\r\nCuchillo de remate con cachas madera prensada rosewood, defensa inoxidable, acero “Nitro-42”. ",
+      "medidas": {
+        "mango": "140 mm",
+        "hoja": "260 mm",
+        "peso": "370 gr"
+      }
+    },
+    {
+      "id_categoria": 4,
+      "id_producto": 401,
+      "nombre": "Navaja acero damasco BX-8DAM",
+      "imagen": "https://panel.muela.eu/fotos/navaja_con_cachas_de_granadilla_y_alpaca_hoja_de_acero_de_damasco_inoxidable_bx-8dam_manufacturas_muela(2).jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de NAVAJAS ARTESANALES, la Navaja acero damasco BX-8DAM.\r\n\r\nNavaja con cachas de granadillo y alpaca. Hoja de acero Damasco inoxidable, utilizando dos clases de acero pulvimetalúrgicos (RWL34 y PMC27) y unidos entre sí a 1150 °C y una presión de 1.00 atmósferas, se consigue un acero de una resistencia a la rotura dos veces superior así como también duplica la resistencia a la fatiga, la ductilidad y la tenacidad al impacto; además de una excepcional belleza en su grabado.",
+      "medidas": {
+        "mango": "110 MM",
+        "hoja": "90 MM",
+        "peso": "115 GR"
+      }
+    },
+    {
+      "id_categoria": 4,
+      "id_producto": 402,
+      "nombre": "Navaja acero damasco GL-10DAM",
+      "imagen": "https://panel.muela.eu/fotos/navaja_con_cachas_de_palo_violeta_alpaca_hoja_de_acero_de_damasco_inoxidable_gl-10dam_manufacturas_muela(2).jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de NAVAJAS ARTESANALES, la Navaja acero damasco GL-10DAM.\r\n\r\nNavaja con cachas de palo violeta y alpaca con 18% Ni. Hoja de acero Damasco inoxidable, utilizando dos clases de acero pulvimetalúrgicos (RWL34 y PMC27) y unidos entre sí a 1150 °C y una presión de 1.00 atmósferas, se consigue un acero de una resistencia a la rotura dos veces superior así como también duplica la resistencia a la fatiga, la ductilidad y la tenacidad al impacto; además de una excepcional belleza en su grabado.",
+      "medidas": {
+        "mango": "120 MM",
+        "hoja": "95 MM",
+        "peso": "195 GR"
+      }
+    },
+    {
+      "id_categoria": 4,
+      "id_producto": 403,
+      "nombre": "Navaja acero damasco BX-8A.DAM",
+      "imagen": "https://panel.muela.eu/fotos/navaja_artesanal_acero_damasco_bx-8a.dam_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de NAVAJAS ARTESANALES, la Navaja acero damasco BX-8A.DAM.\r\n\r\nNavaja con cachas de asta y alpaca. Hoja de acero Damasco inoxidable, utilizando dos clases de acero pulvimetalúrgicos (RWL34 y PMC27) y unidos entre sí a 1150 °C y una presión de 1.00 atmósferas, se consigue un acero de una resistencia a la rotura dos veces superior así como también duplica la resistencia a la fatiga, la ductilidad y la tenacidad al impacto; además de una excepcional belleza en su grabado.",
+      "medidas": {
+        "mango": "110 MM",
+        "hoja": "90 MM",
+        "peso": "115 GR"
+      }
+    },
+    {
+      "id_categoria": 4,
+      "id_producto": 404,
+      "nombre": "Navaja acero damasco GL-10DAM.A",
+      "imagen": "https://panel.muela.eu/fotos/navaja_con_cachas_asta_de_ciervo_alpaca_hoja_de_acero_de_damasco_inoxidable_gl-10dam_a_manufacturas_muela(3).jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de NAVAJAS ARTESANALES, la Navaja acero damasco GL-10DAM.A.\r\n\r\nNavaja con cachas de asta y alpaca con 18% Ni. Hoja de acero Damasco inoxidable, utilizando dos clases de acero pulvimetalúrgicos (RWL34 y PMC27) y unidos entre sí a 1150 °C y una presión de 1.00 atmósferas, se consigue un acero de una resistencia a la rotura dos veces superior así como también duplica la resistencia a la fatiga, la ductilidad y la tenacidad al impacto; además de una excepcional belleza en su grabado.",
+      "medidas": {
+        "mango": "120 MM",
+        "hoja": "95 MM",
+        "peso": "195 GR"
+      }
+    },
+    {
+      "id_categoria": 4,
+      "id_producto": 405,
+      "nombre": "Navaja acero damasco CURRO-A.DAM",
+      "imagen": "https://panel.muela.eu/fotos/navaja_de_coleccion_cachas_de_ciervo_hoja_de_acero_de_damasco_inoxidable_curro-a_dam_manufacturas_muela(2).jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de NAVAJAS ARTESANALES, la Navaja acero damasco CURRO-A.DAM.\r\n\r\nNavaja de colección con las cachas de asta y latón. Hoja de acero Damasco inoxidable, utilizando dos clases de acero pulvimetalúrgicos (RWL34 y PMC27) y unidos entre sí a 1150 °C y una presión de 1.00 atmósferas, se consigue un acero de una resistencia a la rotura dos veces superior así como también duplica la resistencia a la fatiga, la ductilidad y la tenacidad al impacto; además de una excepcional belleza en su grabado.Sistema de bloqueo para la hoja.",
+      "medidas": {
+        "mango": "150 MM",
+        "hoja": "125 MM",
+        "peso": "160 GR"
+      }
+    },
+    {
+      "id_categoria": 5,
+      "id_producto": 501,
+      "nombre": "Macheta de cocina MC-400",
+      "imagen": "https://panel.muela.eu/fotos/hacha_caza_y_deportivo_mc-400_manufacturas_muela.jpg",
+      "descripcion": "Macheta de cocina MC-400.\r\n\r\nMacheta de cocina con mango inyectado goma.",
+      "medidas": {
+        "mango": "150 MM",
+        "hoja": "150 MM",
+        "peso": "440 GR"
+      }
+    },
+    {
+      "id_categoria": 5,
+      "id_producto": 502,
+      "nombre": "Macheta de cocina MC-500",
+      "imagen": "https://panel.muela.eu/fotos/macheta_cocina_gourmet_mc-500_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia GOURMET, la Macheta de cocina MC-500.\r\n\r\nMacheta de cocina con mango inyectado goma.",
+      "medidas": {
+        "mango": "150 MM",
+        "hoja": "150 MM",
+        "peso": "515 GR"
+      }
+    },
+    {
+      "id_categoria": 5,
+      "id_producto": 503,
+      "nombre": "Cuchillo de cocina SANTOKU 17 DAM",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo_cocina_gourmet_santoku-17dam_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia GOURMET, el cuchillo de cocina SANTOKU 17 DAM.\r\n\r\nTrabajado el acero artesanalmente tal como se realizaban las espadas de los guerreros Samurai, estos cuchillos tradicionales de cocina japonesa se componen de una hoja de acero VG10 de alto contenido en Cobalto y Carbono y revestido de 7 laminas de Acero Inoxidable (410) en cada lado, resultando una asombrosa hoja de 15 laminas de Damasco. \r\n\r\nEl VG10 es conocido como el “Súper Acero” ya que mantiene el filo más tiempo que cualquier otro tipo de acero.",
+      "medidas": {
+        "mango": "120 MM",
+        "hoja": "170 MM",
+        "peso": "190 GR"
+      }
+    },
+    {
+      "id_categoria": 5,
+      "id_producto": 504,
+      "nombre": "Cuchillo de cocina GYUTO 21 DAM",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo_cocina_gourmet_gyuto_21_dam_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia GOURMET, el cuchillo de cocina GYUTO 21 DAM.\r\n\r\nTrabajado el acero artesanalmente tal como se realizaban las espadas de los guerreros Samurai, estos cuchillos tradicionales de cocina japonesa se componen de una hoja de acero VG10 de alto contenido en Cobalto y Carbono y revestido de 7 laminas de Acero Inoxidable (410) en cada lado, resultando una asombrosa hoja de 15 laminas de Damasco. \r\n\r\nEl VG10 es conocido como el “Súper Acero” ya que mantiene el filo más tiempo que cualquier otro tipo de acero",
+      "medidas": {
+        "mango": "120 MM",
+        "hoja": "210 MM",
+        "peso": "175 MM"
+      }
+    },
+    {
+      "id_categoria": 5,
+      "id_producto": 505,
+      "nombre": "Cuchillo de cocina SANDW 12 DAM",
+      "imagen": "https://panel.muela.eu/fotos/cuchillo_cocina_gourmet_sandw-12dam_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia GOURMET, el cuchillo de cocina SANDW 12 DAM.\r\n\r\nTrabajado el acero artesanalmente tal como se realizaban las espadas de los guerreros Samurai, estos cuchillos tradicionales de cocina japonesa se componen de una hoja de acero VG10 de alto contenido en Cobalto y Carbono y revestido de 7 laminas de Acero Inoxidable (410) en cada lado, resultando una asombrosa hoja de 15 laminas de Damasco.\r\n \r\nEl VG10 es conocido como el “Súper Acero” ya que mantiene el filo más tiempo que cualquier otro tipo de acero.",
+      "medidas": {
+        "mango": "105 MM",
+        "hoja": "120 MM",
+        "peso": "75 GR"
+      }
+    },
+    {
+      "id_categoria": 6,
+      "id_producto": 601,
+      "nombre": "F/NAVALIA-NEG Funda de piel de vacuno en color negro",
+      "imagen": "https://panel.muela.eu/fotos/f-navalia-neg_funda_piel_negra_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de FUNDAS Y ACCESORIOS para cuchillos y navajas, la  F/NAVALIA-NEG Funda de piel de vacuno en color negro.\r\n\r\nF/NAVALIA-NEG Funda de piel de vacuno en color negro.",
+      "medidas": {
+        "peso": "65 gr",
+        "Medidas": "130 mm"
+      }
+    },
+    {
+      "id_categoria": 6,
+      "id_producto": 602,
+      "nombre": "F/NAVALIA-MAR Funda de piel de vacuno en color marrón",
+      "imagen": "https://panel.muela.eu/fotos/f-navalia-neg_funda_piel_marron_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de FUNDAS Y ACCESORIOS para cuchillos y navajas, la  F/NAVALIA-MAR Funda de piel de vacuno en color marrón.\r\n\r\nF/NAVALIA-MAR Funda de piel de vacuno en color marrón.",
+      "medidas": {
+        "peso": "65 gr",
+        "Medidas": "130 mm"
+      }
+    },
+    {
+      "id_categoria": 6,
+      "id_producto": 603,
+      "nombre": "F/NAVALIA-COR Funda de cordura color negro",
+      "imagen": "https://panel.muela.eu/fotos/f-navalia-cor_funda_cordural_negra_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de FUNDAS Y ACCESORIOS para cuchillos y navajas, la  F/NAVALIA-COR Funda de cordura color negro.\r\n\r\nF/NAVALIA-COR Funda de cordura color negro.",
+      "medidas": {
+        "peso": "45 gr",
+        "Medidas": "130 mm"
+      }
+    },
+    {
+      "id_categoria": 6,
+      "id_producto": 604,
+      "nombre": "F/23 Funda piel para la navaja 23-M",
+      "imagen": "https://panel.muela.eu/fotos/f-23_funda_de_piel_para_navaja_23_m_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de FUNDAS Y ACCESORIOS para cuchillos y navajas, la  F/23,  Funda de piel para la navaja 23-M.\r\n\r\nF/23, Funda de piel para la navaja 23-M.",
+      "medidas": {
+        "peso": "45 gr",
+        "Medidas": "130 mm"
+      }
+    },
+    {
+      "id_categoria": 6,
+      "id_producto": 605,
+      "nombre": "F/25 Funda piel para la navaja 25-M",
+      "imagen": "https://panel.muela.eu/fotos/f-25_funda_de_piel_para_navaja_25_m_manufacturas_muela.jpg",
+      "descripcion": "Manufacturas Muela fabricante de cuchillos y navajas artesanales presenta, dentro de la familia de FUNDAS Y ACCESORIOS para cuchillos y navajas, la  F/25,  Funda de piel para la navaja 25-M.\r\n\r\nF/25, Funda de piel para la navaja 25-M.",
+      "medidas": {
+        "peso": "45 gr",
+        "Medidas": "130 mm"
+      }
+    },
+    {
+      "id_categoria": 7,
+      "id_producto": 701,
+      "nombre": "Abrigo",
+      "imagen": "https://panel.muela.eu/fotos/abrigo_mutex_50_textil_manufacturas_muela.jpg",
+      "descripcion": "Abrigo impermeable cortaviento transpirable MUTEX 5.0.\r\n\r\nChaquetón de tejido silencioso con membrana MUTEX 5.0 y costuras termoselladas, 100% impermeable, transpirable y cortaviento. Relleno Thermoplus. \r\n\r\nCapucha impermeable, desmontable y regulable con cordón. Dos bolsillos amplios, dos exteriores Napoleón e interiores. \r\n\r\nPuños ajustables mediante velcro.",
+      "medidas": {
+        "tallas": "S / M /L / XL / XXL"
+      }
+    },
+    {
+      "id_categoria": 7,
+      "id_producto": 702,
+      "nombre": "Chaleco",
+      "imagen": "https://panel.muela.eu/fotos/chaleco_mutex_50_textil_manufacturas_muela.jpg",
+      "descripcion": "Chaleco de tejido silencioso, impermeable, cortaviento y transpirable MUTEX 5.0.\r\n\r\nChaleco de tejido silencioso con membrana MUTEX 5.0 y costuras termoselladas, 100% impermeable, transpirable y cortaviento. Relleno Thermoplus. \r\n\r\nBolsillos traseros portapiezas. \r\n\r\nBolsillos frontales Napoleón e interiores.",
+      "medidas": {
+        "tallas": "S / M /L / XL / XXL"
+      }
+    },
+    {
+      "id_categoria": 7,
+      "id_producto": 703,
+      "nombre": "Forro polar",
+      "imagen": "https://panel.muela.eu/fotos/forro_polar_mutex_wind_textil_manufacturas_muela.jpg",
+      "descripcion": "Forro polar impermeable cortaviento transpirable MUTEX 5.0.\r\n\r\nChaqueta polar técnica de gran confort térmico con membrana MUTEX WIND, silenciosa, cortaviento, impermeable y transpirable. \r\n\r\nBajos ajustables. \r\n\r\nBolsillo frontal e interiores.",
+      "medidas": {
+        "tallas": "S / M /L / XL / XXL"
+      }
+    },
+    {
+      "id_categoria": 7,
+      "id_producto": 704,
+      "nombre": "Pantalón",
+      "imagen": "https://panel.muela.eu/fotos/pantalon_mutex_50_textil_manufacturas_muela.jpg",
+      "descripcion": "Pantalón impermeable cortaviento transpirable MUTEX 5.0.\r\n\r\nPantalón con membrana MUTEX 5.0 con costuras termoselladas, 100% impermeable, transpirable y cortaviento. \r\n\r\nRefuerzos de material antidesgarro y rodilleras preformadas. \r\n\r\nBolsillos delanteros y dos amplios bolsillos laterales otro trasero con cremallera.",
+      "medidas": {
+        "tallas": "S / M /L / XL / XXL"
+      }
+    },
+    {
+      "id_categoria": 7,
+      "id_producto": 705,
+      "nombre": "Camisa técnica",
+      "imagen": "https://panel.muela.eu/fotos/camisa_mutex_dry_textil_manufacturas_muela.jpg",
+      "descripcion": "Camisa técnica MUTEX DRY.\r\n\r\nExcelente camisa técnica que utiliza el novedoso tejido MUTEX DRY que favorece la transpirabilidad de la humedad hacia el exterior manteniendo el cuerpo cálido y seco. \r\n\r\nAdemás su exclusiva textura facilita un secado rápido.\r\nBolsillo exterior. \r\n\r\nTambién disponible en color marrón Ref. 35781",
+      "medidas": {
+        "tallas": "S / M /L / XL / XXL"
+      }
+    }
+  ]

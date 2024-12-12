@@ -1,0 +1,50 @@
+@use '../../styles.scss' as global;
+
+
+.body__ficha {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parche {
+    width: 100%;
+}
+
+.body__container {
+}
+
+.body__container--h1 {
+    color: global.$color-gris-fuente;
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin: 2rem 0;
+}
+
+.body__producto--wrapper {
+    max-width: 60vw;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 10rem;
+}
+
+.body__producto--wrapper img{
+    border-radius: global.$border-radius-categorias;
+}
+
+.body__descripcion  {
+    color: global.$color-gris-fuente;
+}
+
+
+.body__descripcion--texto{
+    margin-bottom: 3rem;
+}
+
+.body__descripcion--detalles{
+    border: 1px solid #66666666;
+    border-radius: 3%;
+    padding: 3%;
+}

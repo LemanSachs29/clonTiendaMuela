@@ -13,13 +13,14 @@
         <div class="body__categorias--wraper">
 
 
-            <div class="body__categoria" title="Leer más">
+            <!-- uso de ngfor -->
+            <div *ngFor="let categoria of categorias" class="body__categoria" title="Leer más">
                 <div class="body__categoria__img--container">
-                    <img src="https://placehold.co/250x350" alt="Novedad">
+                    <img src="{{categoria.imagen}}" alt="Novedad">
                 </div>
                 <div class="body__categorias_text--container">
-                    <p class="body__categoria--titular">Cuchillos de lujo</p>
-                    <p class="body__categoria--descripcion">Los cuchillos de lujo y colección de Manufacturas Muela constituyen una selección de piezas, realizadas en series limitadas y numeradas, con diseños exclusivos empleándose metales precisos y maderas nobles en un trabajo artesanal. Preciosas se combinan con excepcionales trabajos.</p>
+                    <p class="body__categoria--titular">{{categoria.nombre}}</p>
+                    <p class="body__categoria--descripcion">{{categoria.descripcion}}</p>
                 </div>
             </div>
 
