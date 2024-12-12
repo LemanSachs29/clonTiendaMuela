@@ -12,7 +12,8 @@ const routes: Routes = [
   { path: 'Main', component: MainComponent },
   { path: 'header', component: HeaderComponent },
   { path: 'footer', component: FooterComponent },
-  { path: 'lista-productos', component: ListaProductosComponent},
+  //ruta con componente dinámico
+  { path: 'listado-productos/:id_categoria', component: ListaProductosComponent },
   { path: 'ficha-producto', component: FichaProductoComponent},
   { path: 'categorias', component: CategoriasComponent}
 

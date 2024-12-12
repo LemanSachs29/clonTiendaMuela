@@ -11,34 +11,11 @@
     <hr class="body__separador">
 
     <div class="body__productos--wrapper">
-        <div class="body__producto">
-                <img src="https://placehold.co/403x295" alt="">
+        
+        <div *ngFor="let producto of productos" class="body__producto">
+                <img src="{{producto.imagen}}" alt="{{producto.nombre}}">
             <div class="body__producto--titulo">
-                <p>cuchillos podenco y mastin</p>
-            </div>
-        </div>
-        <div class="body__producto">
-                <img src="https://placehold.co/403x295" alt="">
-            <div class="body__producto--titulo">
-                <p>Cuchillo con mango de asta de ciervo BRACO-11DAM</p>
-            </div>
-        </div>
-        <div class="body__producto">
-                <img src="https://placehold.co/403x295" alt="">
-            <div class="body__producto--titulo">
-                <p>Cuchillo con mango de asta de ciervo BRACO-11DAM</p>
-            </div>
-        </div>
-        <div class="body__producto">
-                <img src="https://placehold.co/403x295" alt="">
-            <div class="body__producto--titulo">
-                <p>Cuchillo con mango de asta de ciervo BRACO-11DAM</p>
-            </div>
-        </div>
-        <div class="body__producto">
-                <img src="https://placehold.co/403x295" alt="">
-            <div class="body__producto--titulo">
-                <p>Cuchillo con mango de asta de ciervo BRACO-11DAM</p>
+                <p>{{producto.nombre}}</p>
             </div>
         </div>
     </div>

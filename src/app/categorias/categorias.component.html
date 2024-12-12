@@ -13,7 +13,21 @@
         <div class="body__categorias--wraper">
 
 
-            <!-- uso de ngfor -->
+        
+            <div *ngFor="let categoria of categorias" class="body__categoria" title="Leer más">
+                <a [routerLink]="['/listado-productos', categoria.id_categoria]">
+                    <div class="body__categoria__img--container">
+                        <img src="{{categoria.imagen}}" alt="Novedad">
+                    </div>
+                </a>
+                    <div class="body__categorias_text--container">
+                        <p class="body__categoria--titular">{{categoria.nombre}}</p>
+                        <p class="body__categoria--descripcion">{{categoria.descripcion}}</p>
+                    </div>
+            </div>
+
+            
+            <!--
             <div *ngFor="let categoria of categorias" class="body__categoria" title="Leer más">
                 <div class="body__categoria__img--container">
                     <img src="{{categoria.imagen}}" alt="Novedad">
@@ -23,7 +37,7 @@
                     <p class="body__categoria--descripcion">{{categoria.descripcion}}</p>
                 </div>
             </div>
-
+            -->
 
         </div>
     </div>
