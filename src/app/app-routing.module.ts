@@ -5,6 +5,7 @@ import { FooterComponent } from './footer/footer.component';
 import { MainComponent } from './main/main.component';
 import { ListaProductosComponent } from './lista-productos/lista-productos.component';
 import { FichaProductoComponent } from './ficha-producto/ficha-producto.component';
+import { CategoriasComponent } from './categorias/categorias.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/Main', pathMatch: 'full' },
@@ -12,7 +13,9 @@ const routes: Routes = [
   { path: 'header', component: HeaderComponent },
   { path: 'footer', component: FooterComponent },
   { path: 'lista-productos', component: ListaProductosComponent},
-  { path: 'ficha-producto', component: FichaProductoComponent}
+  { path: 'ficha-producto', component: FichaProductoComponent},
+  { path: 'categorias', component: CategoriasComponent}
+
 ];
 
 @NgModule({

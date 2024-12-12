@@ -1,0 +1,70 @@
+@use '../../styles.scss' as global;
+
+
+.body__container--h1 {
+    color: global.$color-gris-fuente;
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+
+
+.body__categoriasProductos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.body__categorias--wraper {
+    display: grid;
+    place-content: center;
+    width: 100%;
+    max-width: calc(620px * 2.1);
+    grid-template-columns: repeat(auto-fit, minmax(620px, 1fr));
+    gap: 40px 20px;
+    justify-items: center;
+   margin-bottom: 2%;
+}
+.body__categoria {
+    display: flex;
+    border-radius: global.$border-radius-categorias;
+    width: 620px;
+    height: 350px;
+    background-color:global.$color-grid-novedad;
+
+}
+
+.body__categoria:hover{
+    background-color:global.$color-gris-novedad-hover;
+}
+.body__categoria__img--container {
+    overflow: hidden;
+    margin-right: 15px;
+    width: 250px;
+    height: 350px;
+    
+}
+
+.body__categoria__img--container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ajusta la imagen manteniendo la proporción */
+    object-position: center; /* Centra la imagen dentro del contenedor */
+    border-top-left-radius: global.$border-radius-categorias;
+    border-bottom-left-radius: global.$border-radius-categorias;
+}
+.body__categorias_text--container {
+    width: calc(620px - 250px - 15px - 10px); /*ancho del contenedor - ancho de la imagen - margin de la imagen - espacio para que no llegue al extremo del contenedor*/
+    height: 100%;
+}
+.body__categoria--titular { color: global.$color-verde-header;
+    font-size: 1.3rem;
+    margin: 5% 0;
+}
+.body__categoria--descripcion {
+    color: global.$color-gris-oscuro;
+    font-size: 1.2rem;
+}

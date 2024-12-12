@@ -13,10 +13,6 @@ $fuentePath0: "Fira Sans", serif;
 
 @use '../../styles.scss' as global;
 
-$border-radius-categorias: 3%;
-$color-gris-categoria: #999999;
-$color-gris-novedad-hover: #dfdede;
-$color-grid-novedad: #eeefef;
 
 
 //Estilos del carousel 
@@ -120,17 +116,7 @@ $color-grid-novedad: #eeefef;
 */
 
 
-//Estilos del slogan
-
-.body__slogan {
-    margin-bottom: 5px;
-    background-color: global.$color-gris-oscuro;
-    font-family: global.$fuentePath0;
-    color: global.$color-fondo;
-    font-size: 2.5rem;
-    text-align: center;
-    padding: 2.5rem 0;
-}
+//Estilos del slogan trasladados a la hoja global
 
 //Estilos de la sección de categorias
 .body__categorias-wraper {
@@ -158,7 +144,7 @@ $color-grid-novedad: #eeefef;
     position: relative;
     height: 295px;
     width: 295px;
-    border-radius: $border-radius-categorias;
+    border-radius:global.$border-radius-categorias;
     cursor:pointer;
 }
 
@@ -167,7 +153,7 @@ $color-grid-novedad: #eeefef;
     height: 100%;
     object-fit: cover; /* Ajusta la imagen manteniendo la proporción */
     object-position: center; /* Centra la imagen dentro del contenedor */
-    border-radius: $border-radius-categorias;
+    border-radius:global.$border-radius-categorias;
 }
 
 .body__categoria-titulo {
@@ -175,7 +161,7 @@ $color-grid-novedad: #eeefef;
     bottom: 0;
     padding: 6% 0;
     width: 100%;
-    background-color: $color-gris-categoria;
+    background-color:global.$color-gris-categoria;
     opacity: 90%;
     border-radius: 5px;
 
@@ -236,6 +222,8 @@ $color-grid-novedad: #eeefef;
     margin-bottom: 3%;
 }
 
+
+
 .body__container__enlace--a {
     color: global.$color-gris-fuente;
     font-size: 2.5rem;
@@ -253,12 +241,12 @@ $color-grid-novedad: #eeefef;
 }
 .body__noticia {
     border: 1px solid global.$color-gris-fuente;
-    border-radius: $border-radius-categorias;
+    border-radius:global.$border-radius-categorias;
     cursor:pointer;
 }
 
 .body__noticia:hover{
-    background-color: $color-grid-novedad;
+    background-color:global.$color-grid-novedad;
 }
 
 .body__noticia--imgContainer {
@@ -272,7 +260,7 @@ $color-grid-novedad: #eeefef;
     height: 100%;
     object-fit: cover; /* Ajusta la imagen manteniendo la proporción */
     object-position: center; /* Centra la imagen dentro del contenedor */
-    border-radius: $border-radius-categorias;
+    border-radius:global.$border-radius-categorias;
 }
 
 .body__noticia__textWraper{
@@ -341,12 +329,12 @@ $color-grid-novedad: #eeefef;
     justify-content: start;
     align-items: start;
     width: 620px;
-    border-radius: $border-radius-categorias;
-    background-color: $color-grid-novedad;
+    border-radius:global.$border-radius-categorias;
+    background-color:global.$color-grid-novedad;
     cursor:pointer;
 }
 .body__novedad:hover{
-    background-color: $color-gris-novedad-hover;
+    background-color:global.$color-gris-novedad-hover;
 }
 
 .body__novedad__img--container{
@@ -361,7 +349,8 @@ $color-grid-novedad: #eeefef;
     height: 100%;
     object-fit: cover; /* Ajusta la imagen manteniendo la proporción */
     object-position: center; /* Centra la imagen dentro del contenedor */
-    border-radius: $border-radius-categorias;
+    border-top-left-radius: global.$border-radius-categorias;
+    border-bottom-left-radius: global.$border-radius-categorias;
 }
 .body__novedades_text--container {
     width: calc(620px - 250px - 15px - 10px); /*ancho del contenedor - ancho de la imagen - margin de la imagen - espacio para que no llegue al extremo del contenedor*/

@@ -4,8 +4,11 @@ $color-rrss: #333232;
 $color-gris-oscuro: #676766;
 $color-gris-fuente:#999898;
 $color-verde-fuente:#fcf790;
+$color-gris-categoria: #999999;
+$color-gris-novedad-hover: #dfdede;
+$color-grid-novedad: #eeefef;
 $fuentePath0: "Fira Sans", serif;
-
+$border-radius-categorias: 3%;
 
 *{
     padding: 0;
@@ -15,4 +18,14 @@ $fuentePath0: "Fira Sans", serif;
     font-family: $fuentePath0;
     font-size: 16px;
 
+}
+
+.body__slogan {
+    margin-bottom: 5px;
+    background-color: $color-gris-oscuro;
+    font-family: $fuentePath0;
+    color: $color-fondo;
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 2.5rem 0;
 }
