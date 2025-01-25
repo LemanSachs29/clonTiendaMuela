@@ -15,7 +15,7 @@
 
         
             <div *ngFor="let categoria of categorias" class="body__categoria" title="Leer más">
-                <a [routerLink]="['/listado-productos', categoria.id_categoria]">
+                <a [routerLink]="['/listado-productos', categoria.id]">
                     <div class="body__categoria__img--container">
                         <img src="{{categoria.imagen}}" alt="Novedad">
                     </div>
